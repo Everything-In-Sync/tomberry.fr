@@ -119,6 +119,10 @@ body,
 	Basic
 -----------------------------------------------------------------*/
 
+.text-left{
+	text-align: left;
+	}
+
 dl, dt, dd, ol, ul, li {
 	margin: 0;
 	padding: 0;
